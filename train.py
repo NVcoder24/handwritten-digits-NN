@@ -1,3 +1,8 @@
+"""
+Этот скрипт для тренирования модели
+нейроной сети
+"""
+
 import tensorflow as tf
 from tensorflow import keras
 from colorama import Fore, Back, Style
