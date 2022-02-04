@@ -1,2 +1,2 @@
 # handwritten-digits-NN
-Нейронка для распознавания написанных букв от руки (tensorflow moment)
+Нейронка для распознавания написанных цифр от руки (tensorflow moment)
